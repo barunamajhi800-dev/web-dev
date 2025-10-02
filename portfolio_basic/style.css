@@ -1,0 +1,73 @@
+
+#head{
+    color: white;
+    background-color: rgb(1, 1, 44);
+    margin: 0;
+    padding : 5px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+h2{
+    font-size: 30px;
+    font-style: Bold;
+    padding-top: 3px;
+    padding-bottom: 0;
+}
+p{
+    padding-top: 0px;
+    padding-bottom: 50px;
+    font-style: normal;
+    font-size: 20px;
+}
+.about{
+    margin: 100px;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    font-style: bold;
+    padding-top: 20px;
+}
+.education{
+    margin: 200px;
+    background-color: lightblue;
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+.inside{
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+    font-size: 18px;
+}
+.skills{
+    margin: 200px;
+    text-align: center;
+    background-color: rgb(240, 240, 76);
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 15px;
+}
+.projects{
+    margin : 200px;
+    text-align: center;
+    background-color: lightcoral;
+     padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 15px;
+}
+.contacts{
+    margin: 200px;
+    text-align: center;
+    background-color: lightgreen;
+     padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 15px;
+}
+
